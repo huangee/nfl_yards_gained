@@ -22,11 +22,11 @@ For more information, see [the presentation here](https://github.com/huangee/nfl
 
 **Tools & technology used:**
 - Python
-- Pandas
+- Pandas & Numpy
 - Jupyter Notebook
 - PostgreSQL, sqlalchemy & psycopg
 - Matplotlib & Seaborn
 - Tableau
-- TabPy
+- [TabPy](https://github.com/tableau/TabPy)
 - scikit-learn
-- rfpimp
+- [rfpimp](https://github.com/parrt/random-forest-importances)
