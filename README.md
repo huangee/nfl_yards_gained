@@ -11,8 +11,6 @@ Models tested include:
 - Extra Trees
 - Random Forest
 
-For more information, see [the presentation here](https://github.com/huangee/nfl_yards_gained/blob/master/nfl_play_classification.pdf)
-
 **This github contains:**
 - [code to put the data into a PostgreSQL database](https://github.com/huangee/nfl_yards_gained/blob/master/00_Create_SQL_Table.ipynb)
 - [code for model analysis and Tableau visualization](https://github.com/huangee/nfl_yards_gained/blob/master/01_NFL_all_teams.ipynb)
